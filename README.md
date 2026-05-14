@@ -1,5 +1,2 @@
-# Machine Learning Project
+# Crash Risk Prediction Using XGBClassifier & SMOTE
 
-todo:
-- [ ] add readme
-- [ ] improve data processor
